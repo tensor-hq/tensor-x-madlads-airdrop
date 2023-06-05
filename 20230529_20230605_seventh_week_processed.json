@@ -1,0 +1,20 @@
+[
+  {
+    "wallet": "Bn4eXNCKzVxZpUELmggjqL9whNopfBMMRuPS5zQt2tgL",
+    "entries": 10,
+    "mint": "4Rsr1QEmAVZrJTewtzqHthY1JGz89yt824eZ1P7V5uM9",
+    "sig": "a5odsithhE4Kpr9UTvxegXkQt1FByTadnQRug5WUgajR2ustd9grPUE5qQ9o6xtyLXpTfYqcDnZ3KgdyfcCEe4G"
+  },
+  {
+    "wallet": "AEQ4qTvKkV8BKgpYv2pRhwHHHNbKP34isp3bHZGSXUAq",
+    "entries": 6,
+    "mint": "7uUpKkX9Sf41Doke64PgynSFEEBqdZcYeRZnWt2tfpRH",
+    "sig": "3DptKDMY7j6nYZc8SgD3QDEQTWsSEqEMbkKBdydS8oCvBXHFBLyCgBv1VbQBgHfoiVuwNMyMh3gzpBQMJbiy7MEw"
+  },
+  {
+    "wallet": "275tsdj4dYLAvx65XBqN6mhb34w2w26iWBA6hPpaHTQD",
+    "entries": 3,
+    "mint": "HnahWYx8Pdi14P3Bt8tdhriuJCsgBbvdzchAEotsih22",
+    "sig": "3MbscF35RTEWnjGPuo3PABMp98wK3CVMuZs3w3zjFkfEfKz9i9bNguz6TxvS1TjVfMgQBeHzR3S7MBZqZPB9GuUA"
+  }
+]
