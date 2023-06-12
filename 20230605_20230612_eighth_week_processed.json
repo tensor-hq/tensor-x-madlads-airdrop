@@ -1,0 +1,32 @@
+[
+  {
+    "wallet": "GFexHU2EkUcmcKbj3GyiuNQoa7TreCxLkAxMb2xeLHgS",
+    "entries": 15,
+    "mint": "DbSHps7tMtRg9tdFmDiMumDM9dBxPDGetZZzcyY2BGke",
+    "sig": "4YiY59ZSjirFsxL5gMKuqbV9T31XSXh4kwF7a6JTnQKupaYDA8UDwBQx2Ri4LiGEgVkXfpv1Dnz3tL7zQUpNF8uc"
+  },
+  {
+    "wallet": "tenEpSp5GQM3Ko211Nrugvt7fk6cL7VUwAHmAY9rFNq",
+    "entries": 10,
+    "mint": "EsZ5pZ3MR4jJBkyyRxdXTgFfEo31yMgeKN6YLBRjaVmE",
+    "sig": "24CYggkZ9RdaPanZXoFXgUbKEdKZDxgXWofu44QoJD4qawKd79GGK7B45LGwFJU9QWDpYXzSqCSxUpyuTEkYvzMb"
+  },
+  {
+    "wallet": "C6FmdWF5B27oZieG3pwLu8ceTa26mjng5nvb7sgMbswg",
+    "entries": 2,
+    "mint": "H7AdnSz5xW3oqeWjD1MBhsY9JRZb4oxRQxKRw3EU4mJ2",
+    "sig": "t7g6UyTPGpnuFnt8mDq6v97ZNE4orzNgkNw7CbqMud6yi7ACKL28CFjGiacUbeXAwBA6e5fRKw8hcoDfxncWCbv"
+  },
+  {
+    "wallet": "428JqXgFg3yjuMoa4ZkKi7MBJLn2thvpSTH6HS2NLQC1",
+    "entries": 1,
+    "mint": "HmwRMp9Vcmf8QGJ7zGATgYuJcRpN2bTAUXmWVtKzhSnT",
+    "sig": "4VNpLuiBpXauYAHFo4D5A44b8U1qLSpWA6oSZJvYkiETwdfd7KbnxTvARRbzq1wSCQqwgsVoSuBVk2e7rwSn9ysZ"
+  },
+  {
+    "wallet": "F4wXjvMYXptzGB4GNWZeUw8dov45vAv6ZCzMzFLbs9NB",
+    "entries": 1,
+    "mint": "NLXS8Xar9wJqfuMY4783AmmzM7RJJmUot5SV3n9VqWi",
+    "sig": "3Cs2kj5YQznjH4JZrjG6nb4X6K13UzaBfGyUDAff2dARL8z3bof1Wa69P6Ue8aMZ7aKig3jqqq5gLgcjFQf129FL"
+  }
+]
